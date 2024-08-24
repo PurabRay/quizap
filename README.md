@@ -1,7 +1,7 @@
 
 # Quizap
 
-![Quizap Logo](https://path-to-your-logo.png) <!-- Replace this with an actual path if you have a logo -->
+
 
 ## Overview
 
