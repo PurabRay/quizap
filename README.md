@@ -1,6 +1,3 @@
-Here's a well-written README file for your "quizap" project:
-
----
 
 # Quizap
 
